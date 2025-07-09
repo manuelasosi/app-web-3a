@@ -1,0 +1,24 @@
+﻿
+.curriculo {
+  
+    margin-bottom: 8px;
+}
+.meu {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify-all;
+    font-size: 35px;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: justify;
+    font-size: 25px;
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    font-size: 17px;
+    
+}
+
